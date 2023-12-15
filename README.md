@@ -1,6 +1,3 @@
-Certainly! Below is a basic template for a README file for your P2P file-sharing project on GitHub. You may customize it further based on specific details, features, or instructions relevant to your project.
-
-```markdown
 # P2P File Sharing System
 
 This Python project implements a peer-to-peer (P2P) file-sharing system using socket programming. The system allows users to host and download files over a local network.
